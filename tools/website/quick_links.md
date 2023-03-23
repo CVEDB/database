@@ -10,10 +10,10 @@ permalink: /quick-links
 	- API: [https://api.gsd.id](https://api.gsd.id)
 - **GitHub Repos**
 	- gsd-database: [https://github.com/cloudsecurityalliance/gsd-database](https://github.com/cloudsecurityalliance/gsd-database)
-	- gsd-tools: [https://github.com/cloudsecurityalliance/gsd-tools](https://github.com/cloudsecurityalliance/gsd-tools)
+	- gsd-tools: [https://github.com/cvedb/database/tools](https://github.com/cvedb/database/tools)
 - **Communication Channels**
-	- GitHub Discussions: [https://github.com/cloudsecurityalliance/gsd-tools/discussions](https://github.com/cloudsecurityalliance/gsd-tools/discussions)
-	- GitHub Issues: [https://github.com/cloudsecurityalliance/gsd-tools/issues](https://github.com/cloudsecurityalliance/gsd-tools/issues)
+	- GitHub Discussions: [https://github.com/cvedb/database/tools/discussions](https://github.com/cvedb/database/tools/discussions)
+	- GitHub Issues: [https://github.com/cvedb/database/tools/issues](https://github.com/cvedb/database/tools/issues)
 	- Circle Community (High-level): [https://csaurl.org/gsd-circle](https://csaurl.org/gsd-circle)
 	- Mailing List: [https://csaurl.org/gsd-mailing-list](https://csaurl.org/gsd-mailing-list)
 	- Slack: [https://csaurl.org/csa-public-slack](https://csaurl.org/csa-public-slack) - `#gsd-working-group` channel

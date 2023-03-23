@@ -2,12 +2,12 @@
 title: Contributing Tools to GSD
 ---
 
-GSD tools are publicly available on [GitHub](https://github.com/cloudsecurityalliance/gsd-tools).
+GSD tools are publicly available on [GitHub](https://github.com/cvedb/database/tools).
 We welcome all contributions.
 
 ## Helping with Issues
 
-The current issues are at [here](https://github.com/cloudsecurityalliance/gsd-tools/issues)
+The current issues are at [here](https://github.com/cvedb/database/tools/issues)
 
 ## Contributing New Tools
 

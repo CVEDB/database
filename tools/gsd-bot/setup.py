@@ -13,7 +13,7 @@ setuptools.setup(
     description="The GSD python bot and helpers",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/cloudsecurityalliance/gsd-tools",
+    url="https://github.com/cvedb/database/tools",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",

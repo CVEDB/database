@@ -5,7 +5,7 @@ permalink: /getting-started
 
 ## Using GSD IDs
 
-Currently, all the data is provided via Git. In the future, we plan to provide an API. [If you want to contribute to the API work, click here.](https://github.com/cloudsecurityalliance/gsd-tools/labels/api)
+Currently, all the data is provided via Git. In the future, we plan to provide an API. [If you want to contribute to the API work, click here.](https://github.com/cvedb/database/tools/labels/api)
 
 View the database: <a href="https://github.com/cloudsecurityalliance/gsd-database" target="_blank">https://github.com/cloudsecurityalliance/gsd-database</a>
 
@@ -21,9 +21,9 @@ View the calendar: [https://csaurl.org/gsd-calendar](https://csaurl.org/gsd-cale
 
 ### Discuss
 
-[GitHub Issues](https://github.com/cloudsecurityalliance/gsd-tools/issues)
+[GitHub Issues](https://github.com/cvedb/database/tools/issues)
 
-[GitHub Discussions](https://github.com/cloudsecurityalliance/gsd-tools/discussions)
+[GitHub Discussions](https://github.com/cvedb/database/tools/discussions)
 
 ### Contribute
 
@@ -34,8 +34,8 @@ How would you like to contribute to GSD?
 ## Stay Informed
 
 - **Communication Channels**
-	- GitHub Discussions: [https://github.com/cloudsecurityalliance/gsd-tools/discussions](https://github.com/cloudsecurityalliance/gsd-tools/discussions)
-	- GitHub Issues: [https://github.com/cloudsecurityalliance/gsd-tools/issues](https://github.com/cloudsecurityalliance/gsd-tools/issues)
+	- GitHub Discussions: [https://github.com/cvedb/database/tools/discussions](https://github.com/cvedb/database/tools/discussions)
+	- GitHub Issues: [https://github.com/cvedb/database/tools/issues](https://github.com/cvedb/database/tools/issues)
 	- Circle Community (High-level): [https://csaurl.org/gsd-circle](https://csaurl.org/gsd-circle)
 	- Mailing List: [https://csaurl.org/gsd-mailing-list](https://csaurl.org/gsd-mailing-list)
 	- Slack: [https://csaurl.org/csa-public-slack](https://csaurl.org/csa-public-slack) - `#gsd-working-group` channel
